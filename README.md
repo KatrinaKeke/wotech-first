@@ -4,7 +4,7 @@ read me file uses markdown syntax to edit any text, foruma or codes.
 
 # Welcome to my repository
 
-## my skils
+## My skils
 - Java
 - Python
 - Github
